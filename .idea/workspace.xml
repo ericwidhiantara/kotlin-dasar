@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4743fe3-99d5-4e96-9322-d36eef79b8c8" name="Changes" comment="feature: init simple project" />
+    <list default="true" id="f4743fe3-99d5-4e96-9322-d36eef79b8c8" name="Changes" comment="refactor: add workspace">
+      <change afterPath="$PROJECT_DIR$/src/HelloWorld.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,6 +60,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="HelloWorldKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorldKt" />
+      <module name="kotlin-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.HelloWorldKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -65,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715870714917</updated>
-      <workItem from="1715870715919" duration="371000" />
+      <workItem from="1715870715919" duration="856000" />
     </task>
     <task id="LOCAL-00001" summary="feature: init simple project">
       <option name="closed" value="true" />
@@ -75,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715870872297</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="refactor: add workspace">
+      <option name="closed" value="true" />
+      <created>1715871492299</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715871492299</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feature: init simple project" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature: init simple project" />
+    <MESSAGE value="refactor: add workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: add workspace" />
   </component>
 </project>
