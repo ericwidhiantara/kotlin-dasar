@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4743fe3-99d5-4e96-9322-d36eef79b8c8" name="Changes" comment="feature: add hello world">
-      <change afterPath="$PROJECT_DIR$/src/Number.kt" afterDir="false" />
+    <list default="true" id="f4743fe3-99d5-4e96-9322-d36eef79b8c8" name="Changes" comment="feature: add type data number">
+      <change afterPath="$PROJECT_DIR$/src/Character.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.CharacterKt.executor": "Run",
     "Kotlin.HelloWorldKt.executor": "Debug",
     "Kotlin.MainKt.executor": "Debug",
     "Kotlin.NumberKt.executor": "Debug",
@@ -61,7 +62,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.NumberKt">
+  <component name="RunManager" selected="Kotlin.CharacterKt">
+    <configuration name="CharacterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharacterKt" />
+      <module name="kotlin-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorldKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorldKt" />
       <module name="kotlin-dasar" />
@@ -78,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CharacterKt" />
         <item itemvalue="Kotlin.NumberKt" />
         <item itemvalue="Kotlin.HelloWorldKt" />
       </list>
@@ -99,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715870714917</updated>
-      <workItem from="1715870715919" duration="7518000" />
+      <workItem from="1715870715919" duration="8007000" />
     </task>
     <task id="LOCAL-00001" summary="feature: init simple project">
       <option name="closed" value="true" />
@@ -125,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715871598039</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feature: add type data number">
+      <option name="closed" value="true" />
+      <created>1715925487697</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715925487697</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +152,7 @@
     <MESSAGE value="feature: init simple project" />
     <MESSAGE value="refactor: add workspace" />
     <MESSAGE value="feature: add hello world" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature: add hello world" />
+    <MESSAGE value="feature: add type data number" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: add type data number" />
   </component>
 </project>
