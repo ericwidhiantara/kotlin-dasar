@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4743fe3-99d5-4e96-9322-d36eef79b8c8" name="Changes" comment="refactor: add workspace">
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.kt" afterDir="false" />
+    <list default="true" id="f4743fe3-99d5-4e96-9322-d36eef79b8c8" name="Changes" comment="feature: add hello world">
+      <change afterPath="$PROJECT_DIR$/src/Number.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.HelloWorldKt.executor": "Debug",
     "Kotlin.MainKt.executor": "Debug",
+    "Kotlin.NumberKt.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -60,7 +61,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.NumberKt">
     <configuration name="HelloWorldKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorldKt" />
       <module name="kotlin-dasar" />
@@ -68,8 +69,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberKt" />
+      <module name="kotlin-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.NumberKt" />
         <item itemvalue="Kotlin.HelloWorldKt" />
       </list>
     </recent_temporary>
@@ -90,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715870714917</updated>
-      <workItem from="1715870715919" duration="856000" />
+      <workItem from="1715870715919" duration="7518000" />
     </task>
     <task id="LOCAL-00001" summary="feature: init simple project">
       <option name="closed" value="true" />
@@ -108,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715871492299</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feature: add hello world">
+      <option name="closed" value="true" />
+      <created>1715871598039</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715871598039</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +134,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feature: init simple project" />
     <MESSAGE value="refactor: add workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: add workspace" />
+    <MESSAGE value="feature: add hello world" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: add hello world" />
   </component>
 </project>
